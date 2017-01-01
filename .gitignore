@@ -3,6 +3,7 @@
 *~
 /bin
 *.idea
+/.chef
 
 *.iml
 *.eml
