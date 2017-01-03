@@ -11,7 +11,7 @@
 			<h2>Log In</h2>
 			
 			<p>Use this page to log in by entering an <code>issuer URI</code> or a <code>webfinger identifier</code>. 
-			Use the buttons to pre-fill the form with a known identifier.</p> 
+			Use the buttons to pre-fill the form with a known identifier...</p> 
 			
 			<div class="well">
 				<div class="row-fluid">
