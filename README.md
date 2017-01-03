@@ -5,3 +5,5 @@ To test the application
 Welcome to the simple web app
 
 Just a test
+
+another test
